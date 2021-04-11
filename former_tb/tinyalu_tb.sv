@@ -187,5 +187,4 @@ module top;
 		$stop;
 	end : tester
 
-// AAAAAAAAAAAA
 endmodule : top
