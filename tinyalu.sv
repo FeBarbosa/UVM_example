@@ -1,3 +1,15 @@
+// Tiny ALU
+
+/*
+    OPERATIONS:
+     * no_op	: 000
+     * add_op	: 001
+     * and_op	: 010
+     * xor_op	: 011
+     * mul_op	: 100
+     OTHERS => UNUSED
+*/
+
 module tinyalu (input [7:0] A,
 		input [7:0] B,
 		input [2:0] op,
