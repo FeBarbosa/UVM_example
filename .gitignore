@@ -1,5 +1,7 @@
 *.ucdb
 *.wlf
 *.swp
+*.log
+*.f
 work
 transcript
